@@ -9,3 +9,5 @@ corrected
 Changes done after creating branch testing
 
 Changes done to Master Branch, other changes have been committed to Testing Branch before checking out from Main
+
+After creating branch AWHS007, committed the fix in that branch, checked out master, to create a new branch AWHS005, to fix that and merge to master
