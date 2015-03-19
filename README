@@ -20,3 +20,5 @@ After creating branch AWHS007, committed the fix in that branch, checked out mas
 
 
 Changes done to the master branch directly at github.
+
+Making master branch ahead of origin/master with 2 commits.
