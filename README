@@ -18,7 +18,8 @@ Doing some changes, that i will stage but not commit to awhs007 branch
 
 After creating branch AWHS007, committed the fix in that branch, checked out master, to create a new branch AWHS005, to fix that and merge to master
 
-
 Changes done to the master branch directly at github.
 
 Making master branch ahead of origin/master with 2 commits.
+
+new remote
